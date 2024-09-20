@@ -1,0 +1,8 @@
+train: C:/Users/uday0/objectdetection/appliances/train/images
+val: C:/Users/uday0/objectdetection/appliances/valid/images
+test: C:/Users/uday0/objectdetection/appliances/test/images
+nc: 4
+
+names: ['Bulb', 'Fan', 'TubeLight', 'Rock']
+
+
